@@ -1,0 +1,10 @@
+body{
+    font-family: arial, helvetica, sans-serif; /** select fonts to use*/
+    font-size: 1em; /* 1em is about  14px, but is easier when using mobile screens*/
+    background-color: aliceblue;
+    margin: 2%; /*2% margin round all of the page*/
+}
+img #logo /*allows sizing of an image with the id logo*/{
+
+
+}
